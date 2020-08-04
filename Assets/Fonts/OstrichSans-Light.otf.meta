@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: ed0146a3f8e8d6546bf8259b90b907fc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ostrich Sans
+  fontNames:
+  - Ostrich Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 09b9bc21d93985d42a7c27434c238d80, type: 3}
+  - {fileID: 12800000, guid: 76afa082df158294297eb773531c1232, type: 3}
+  - {fileID: 12800000, guid: d6b910a4275c26547bce88f11288986f, type: 3}
+  - {fileID: 12800000, guid: 2f07466b95cd7694081f6bdbcb863d22, type: 3}
+  - {fileID: 12800000, guid: 0d707adf4b0e8a0489c0f98257774fbd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
